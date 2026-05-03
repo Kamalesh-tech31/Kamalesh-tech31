@@ -1,8 +1,7 @@
 Hi, I'm Kamalesh K 👋
 
 🎓 Computer Science Engineering Student
-💻 Passionate about Software Development, Data Analytics, and AI
-
+Aspiring software engineer passionate about problem solving, data structures, and building efficient solutions. Exploring AI-assisted development and continuously learning new technologies
 
 🚀 Skills
 
