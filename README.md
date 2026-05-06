@@ -1,7 +1,6 @@
 Hi, I'm Kamalesh K 👋
 
-🎓 Computer Science Engineering Student
-Aspiring software engineer passionate about problem solving, data structures, and building efficient solutions. Exploring AI-assisted development and continuously learning new technologies
+🎓 CSE Undergraduate | Machine Learning Enthusiast | Passionate about building scalable applications, solving real-world problems, and collaborating using modern development tools
 
 🚀 Skills
 
@@ -22,19 +21,23 @@ Aspiring software engineer passionate about problem solving, data structures, an
 - MongoDB
 - MySQL
 
+🔧 Developer Tools
+
+- Git
+- GitHub
+- Version Control & Repository Management
 
 📂 Projects
 
 🚧 Currently building real-world projects
 (Portfolio website and more coming soon...)
 
-
 📈 Currently Learning
 
-- Data Analytics (Deloitte Virtual Internship)
+- Data Analytics
 - Machine Learning
 - Deep Learning (LangChain & LangGraph)
-
+- Docker
 
 🎯 Goal
 
