@@ -27,10 +27,17 @@ Hi, I'm Kamalesh K 👋
 - GitHub
 - Version Control & Repository Management
 
-📂 Projects
+🧠 DSA & Problem Solving
 
-🚧 Currently building real-world projects
-(Portfolio website and more coming soon...)
+✔ Solved 350+ problems on LeetCode  
+✔ Solved 150+ problems on Skillrack  
+
+Focused on:
+- Data Structures & Algorithms
+- Problem Solving
+- Optimization Techniques
+- Logical Thinking
+- Competitive Programming
 
 📈 Currently Learning
 
